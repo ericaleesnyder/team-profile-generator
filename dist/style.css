@@ -1,0 +1,12 @@
+.header {
+  height: 150px;
+  background-color: pink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-rows {
+  display: flex;
+  justify-content:center;
+}
