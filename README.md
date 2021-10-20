@@ -25,8 +25,7 @@ In order to install this product, you need to:
 For the user to access this application, they need to run "npm install" prior to entering "node index.js"
 
 ## Usage 
-Add screenshots as appropriate using the following syntax: 
-![alt text](relative path)
+![Team Profile Generator](https://user-images.githubusercontent.com/89615676/138012073-3a2fa300-83f3-4355-b453-90fb8e1f11e4.gif)
 
 Once the application has been initiated, the only steps for it's use are answering the prompted questions and navigating to the completed webpage! 
 
